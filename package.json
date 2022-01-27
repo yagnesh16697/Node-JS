@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  },
+  "dependencies": {
+    "log4j": "^1.0.0"
+  }
+}
